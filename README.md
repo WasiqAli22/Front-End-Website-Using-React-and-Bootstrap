@@ -1,5 +1,4 @@
-URL : https://wasiqali22.github.io/Front-End-Website-Using-React-and-Bootstrap/
-Click the URL to view the website.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
